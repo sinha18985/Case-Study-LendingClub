@@ -10,7 +10,6 @@ If the applicant is not likely to repay the loan, i.e. he/she is likely to defau
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
@@ -39,7 +38,7 @@ Risky states are NE, NV, SD, AK, FL, MO from default point of view.
 - Numpy
 - Pandas
 - Matplot
-- Seabon
+- Seaborn
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
